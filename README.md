@@ -13,3 +13,5 @@ The data have been downloaded from the git repository of [Our World in Data](htt
 The code requires the following libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`
 
 ### Topic modeling
+
+The presentation and the notebook are in the folder `topic_modeling`
